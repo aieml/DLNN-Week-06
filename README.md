@@ -7,6 +7,7 @@ This Week we discussed, how view and visualize trainable parameters (Weights and
 1. Tensorflow Object Detection API [Github repository](https://github.com/tensorflow/models/tree/master/research/object_detection)
 2. Sentdex's Tensorflow Object Detection API  [Tutorial](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
 3. YOLO Object Detection API [tutorial](https://imageai.readthedocs.io/en/latest/)
+4. [Download Tensorflow Object Detection API] (https://github.com/tensorflow/models)
 
 ## Models used in Tensorflow Object Detection API
 
